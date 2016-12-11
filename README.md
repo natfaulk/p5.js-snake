@@ -10,4 +10,4 @@ Collect the "food" to grow the snake.
 Crashing into oneself is game over.  
 The walls wrap around - ie if you go off one side you come back on the other.  
 
-http://natfaulk.com/post/A%20p5.js%20snake%20game
+One can play it [here](http://natfaulk.com/post/A%20p5.js%20snake%20game).
